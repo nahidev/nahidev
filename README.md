@@ -1,8 +1,9 @@
-**‹Hello, World!/›**
-
-I'm Nahi, @nahidev here, interested in web development 🖥️ 
-Currently studying the Certificate of Higher Education on Web Development 👩‍🎓
-Java, CSS, HTML...
+**‹Hello, World!/›**                                                                                                                                                     
+I'm Nahi, @nahidev here, interested in web development 🖥️ <br/>
+Currently studying the Certificate of Higher Education on Web Development 👩‍🎓 <br/>
++ Java
++ CSS
++ HTML
 
 
 
