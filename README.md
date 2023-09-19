@@ -1,11 +1,11 @@
-**‹Hello, World!/›**                                                                                                                                                     
+**‹Hello, World!/›** 🇬🇧            
 I'm Nahi, @nahidev here, interested in web development 🖥️ <br/>
 Currently studying the Certificate of Higher Education on Web Development 👩‍🎓 <br/>
 + Java
 + CSS
 + HTML
 
-**‹¡Hola, mundo!/›**  
+**‹¡Hola, mundo!/›**  🇪🇦
 Me llamo Nahi, @nahidev aquí, estoy interesada en el desarrollo web 🖥️ <br/>
 Actualmente estudiando el Ciclo Formativo de Grado Superior en desarrollo de aplicaciones web (DAW) 👩‍🎓 <br/>
 + Java
